@@ -3,7 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'my-app',
-    environment: environment
+    environment
   };
 
   return ENV;
